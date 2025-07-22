@@ -3,4 +3,5 @@ function palindrome(str) {
   return newArr.filter((a,i, arr) => arr[i] === arr[(arr.length - 1)-i] ).length == newArr.length ? true : false;
 }
 
+
 console.log(palindrome("five|\_/|four"));

@@ -1,6 +1,6 @@
 
 //Solution for Roman Numeral Converter
-//JS
+
 
 function convertToRoman(num) {
  const Numbers = {

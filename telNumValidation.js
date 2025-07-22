@@ -8,4 +8,5 @@ function telephoneCheck(str) {
 }
 
 const result = telephoneCheck("555-555-5555");
+
 console.log(result);
